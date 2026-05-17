@@ -146,7 +146,7 @@ export const listProyek = [
     id: 1,
     gambar: Proyek1,
     nama: "Website Service elektronik",
-    desk: "Website sekolah sarana informasi digital yang menyediakan berbagai data dan aktivitas sekolah secara online. Website ini memudahkan penyampaian informasi kepada siswa, guru, orang tua, dan masyarakat secara cepat dan efisien.",
+    desk: "Platform pencatatan dan pengelolaan jasa service barang elektronik — HP, Laptop, Printer, TV, Kulkas, Mesin Cuci, dan perangkat lainnya.",
     tools: ["HTML", "CSS", "PHP", "database-MYSQL"],
     link: "http://servis-hp-babel.rf.gd/?i=1",
     dad: "200",
