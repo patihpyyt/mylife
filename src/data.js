@@ -136,7 +136,7 @@ export const listTools = [
 
 import Proyek1 from "/assets/proyek/servis.webp";
 import Proyek2 from "/assets/proyek/py.webp";
-import Proyek3 from "/assets/proyek/proyek3.webp";
+import Proyek3 from "/assets/proyek/ke.webp";
 import Proyek4 from "/assets/proyek/proyek4.webp";
 import Proyek5 from "/assets/proyek/proyek5.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
@@ -163,9 +163,9 @@ export const listProyek = [
   {
     id: 3,
     gambar: Proyek3,
-    nama: "Web Pernikahan 2.0",
+    nama: "Componay Profile",
     desk: "media digital yang digunakan untuk menyampaikan informasi acara pernikahan, seperti profil pasangan, detail waktu dan lokasi acara, cerita singkat, galeri foto, serta konfirmasi kehadiran tamu secara online.",
-    tools: ["Vite", "ReactJS", "TailwindCSS", "AOS"],
+    tools: ["Vite", "ReactJS", "TailwindCSS", "Laravel"],
     dad: "400",
   },
   {

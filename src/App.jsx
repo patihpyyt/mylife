@@ -94,7 +94,7 @@ function App() {
 
             {/* SUB */}
             <p className="uppercase text-[#f5a623] tracking-[5px] text-[12px] font-semibold">
-              Full Stack Developer & UI Designer
+              Web Developer & UI Designer
             </p>
 
             {/* DESC */}
