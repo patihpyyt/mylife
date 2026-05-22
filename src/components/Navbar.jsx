@@ -42,7 +42,7 @@ const Navbar = () => {
             href="#beranda"
             className="font-['Syne',sans-serif] font-bold text-[1.15rem] text-[#eeeef5] tracking-[-0.5px]"
           >
-            IQ
+            Pyyt
             <em className="not-italic text-[#10d9a0]">
               .
             </em>
