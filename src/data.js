@@ -137,8 +137,8 @@ export const listTools = [
 import Proyek1 from "/assets/proyek/servis.webp";
 import Proyek2 from "/assets/proyek/py.webp";
 import Proyek3 from "/assets/proyek/ke.webp";
-import Proyek4 from "/assets/proyek/proyek4.webp";
-import Proyek5 from "/assets/proyek/proyek5.webp";
+import Proyek4 from "/assets/proyek/kal.webp";
+import Proyek5 from "/assets/proyek/absen.webp";
 import Proyek6 from "/assets/proyek/proyek6.webp";
 
 export const listProyek = [
@@ -171,15 +171,16 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Website Course",
+    nama: "KALKULATOR RELASI & FUNGSI MTK DISKRIT",
     desk: "media digital yang menyediakan informasi dan layanan pembelajaran, seperti daftar kelas, materi, jadwal, mentor, serta pendaftaran peserta secara online.",
-    tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
+    tools: ["html", "CSS", "javacript"],
+    link: "https://relas-fungsi-xaz.vercel.app/grafik.html",
     dad: "500",
   },
   {
     id: 5,
     gambar: Proyek5,
-    nama: "Web Portfolio",
+    nama: "Absesnsi Mahasiswa",
     desk: "Lmedia digital yang berisi kumpulan karya, keahlian, dan pengalaman seseorang yang ditampilkan secara terstruktur untuk menunjukkan kemampuan serta meningkatkan nilai profesional di mata klien, perusahaan, atau publik.",
     tools: ["HTML", "CSS", "Javascript", "Bootsrap"],
     dad: "600",
